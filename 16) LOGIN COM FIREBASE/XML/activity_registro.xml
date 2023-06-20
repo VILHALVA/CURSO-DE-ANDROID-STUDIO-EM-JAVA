@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/backgroud"
+    tools:context=".Activity.Registro">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="120dp"
+        android:padding="10dp"
+        android:text="CRIAR CONTA"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="40sp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editNome"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="NOME"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editSobrenome"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="SOBRENOME"
+        android:inputType="textPersonName"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editEmailRegistro"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="E-MAIL"
+        android:inputType="text|textEmailAddress"
+        android:textAlignment="center"
+        android:textColor="@color/white" />
+
+    <EditText
+        android:id="@+id/editSenhaResgistro"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="SENHA"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"/>
+
+    <EditText
+        android:id="@+id/editSenhaConfirmar"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="CONFIRMAR SENHA"
+        android:inputType="textPassword"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"/>
+
+    <CheckBox
+        android:id="@+id/mostrarSenhaRegistro"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="MOSTRAR SENHA"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnLoginRegistro"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="REGISTRAR" />
+
+    <Button
+        android:id="@+id/btnLogin"
+        android:layout_width="360dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="LOGIN" />
+
+    <ProgressBar
+        android:id="@+id/loginProgressBar"
+        style="@android:style/Widget.DeviceDefault.ActionBar.Solid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:background="#D51010"
+        android:indeterminate="true"
+        android:indeterminateTint="@color/white"
+        android:visibility="invisible" />
+</LinearLayout>
