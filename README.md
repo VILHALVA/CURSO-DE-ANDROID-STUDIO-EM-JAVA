@@ -42,6 +42,9 @@
 * [15 - APP DE GORJETA](https://youtube.com/playlist?list=PLZCMLqQ7FqfSVriSboSFxjvaZgujxxGAh)
 * [16 - LOGIN COM FIREBASE](https://youtube.com/playlist?list=PLZCMLqQ7FqfRplMlYPdaTosvhTKb2w7pD)
 
+# 🤖VIDEOS DO YOUTUBE:
+* [CLIQUE AQUI PARA VER A EXECUÇÃO DO APP JOKENPO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
+
 ![](https://i.imgur.com/waxVImv.png)
 # 👀VISÃO PANORÂMICA:
 O Android Studio foi desenvolvido pela Google e lançado em maio de 2013. É a principal IDE para desenvolvimento de aplicativos Android e é baseada na plataforma JetBrains IntelliJ IDEA. A IDE foi projetada para oferecer uma experiência completa e integrada, fornecendo ferramentas e recursos avançados para desenvolver, depurar e testar aplicativos Android.
