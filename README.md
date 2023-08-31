@@ -43,7 +43,7 @@
 * [16 - LOGIN COM FIREBASE](https://youtube.com/playlist?list=PLZCMLqQ7FqfRplMlYPdaTosvhTKb2w7pD)
 
 # 🤖VIDEOS DO YOUTUBE:
-* [CLIQUE AQUI PARA VER A EXECUÇÃO DO APP JOKENPO](https://youtu.be/_vbe5zTLocM?si=Zf_I2SYfDSmhA2Vb)
+* [CLIQUE AQUI PARA VER A EXECUÇÃO DO APP JOKENPO](https://youtu.be/wYlFDgnFG1w?si=1saSc6-9nQK6BsYO)
 
 ![](https://i.imgur.com/waxVImv.png)
 # 👀VISÃO PANORÂMICA:
