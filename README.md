@@ -85,6 +85,10 @@
 * [18 - RETROFIT](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
 
 # 🤖VIDEOS DO YOUTUBE:
+* [CRIANDO APK QUE CONVERTE DOLAR EM REAL](https://youtu.be/ADbsFq0kOAs?si=0PKNYHnF10pQM4tM)
+* [CRIANDO APK QUE CALCULA A MÉDIA](https://youtu.be/cIoKcflRpaA?si=BG3s43KlSJ6iVYmi)
+* [CRIANDO APK  DE SAUDAÇÃO](https://youtu.be/9hWBuXgycE0?si=KlZsOgJga2mxsVdE)
+* [CRIANDO APK CONVERSOR DE TEMPERATURA](https://youtu.be/MqZvmI0Fs0o?si=EHJCHu6yxDkspBZ5)
 * [CLIQUE AQUI PARA VER A EXECUÇÃO DO APP JOKENPO](https://youtu.be/wYlFDgnFG1w?si=1saSc6-9nQK6BsYO)
 
 ![](https://i.imgur.com/waxVImv.png)
