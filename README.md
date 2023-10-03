@@ -2,94 +2,11 @@
 👨‍⚖️CRIANDO APLICATIVOS PARA ANDROID.
 
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
-[![GitHub Repo stars](https://img.shields.io/badge/CANAL-AREA%20TECH-03A9F4?logo=youtube)](https://www.youtube.com/@AreaTechBrasil/playlists) 
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=AndroidStudio) <br>
+
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://developer.android.com/docs?hl=pt-br) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/-APRENDA%20A%20GERAR%20SEU%20APK-green)](https://youtu.be/GHhcu_mYrMQ)
-[![GitHub Repo stars](https://img.shields.io/badge/-APRENDA%20A%20GERAR%20SEU%20ICONE-green)](https://youtu.be/tsWeD1x0kFo)
-
 <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" align="center" width="250"> <br>
-
-## 🧧REQUESITOS:
-* 🤯 [SABER PROGRAMAR EM JAVA](https://github.com/VILHALVA/CURSO-DE-JAVA)
-* 🤯 [SABER PROGRAMAR EM KOTLIN](https://github.com/VILHALVA/CURSO-DE-KOTLIN)
-* 🤯 [CONHECER A ESTRUTURA DO XML](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/xmldoc/)
-* 💻 [INSTALAR O ANDROID STUDIO](https://developer.android.com/studio)
-* ⚙️ [CONFIGURAR O ANDROID STUDIO](https://youtu.be/LzRZhOSTQ2I)
-* ⚙️ [CRIAR O EMULADOR](https://youtu.be/q3IEm7SWp04)
-* ⚙️ [CONFIGURAR O FIREBASE](https://firebase.google.com)
-
-## 🎎ENDEREÇO:
-* ✅CÓDIGO JAVA: PASTA\app\src\main\java\com\example\nomeDoProjeto
-* ✅CÓDIGO KOTLIN: PASTA\app\src\main\java\com\example\nomeDoProjeto
-* ✅CÓDIGO XML: PASTA\app\src\main\res\layout
-
-## [🤖TEORIAS:](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-> SE TRATAM DE TODA A BASE TEÓRICA DO ANDROID STUDIO FEITO EM README.
-> A teoria é fundamental para um desenvolvedor Android, pois fornece o conhecimento necessário para criar aplicativos Android de alta qualidade e eficiência. Aqui estão algumas razões pelas quais a teoria é importante no contexto do desenvolvimento Android:
-
-> 1. **Entendimento dos Fundamentos**: A teoria ajuda os desenvolvedores a entender os fundamentos do desenvolvimento Android, como a estrutura de um aplicativo Android, o ciclo de vida das atividades, layouts XML, componentes de interface do usuário e muito mais. Isso é essencial para criar aplicativos que funcionem corretamente e sejam eficientes.
-
-> 2. **Resolução de Problemas**: O conhecimento teórico permite aos desenvolvedores entender como os diferentes componentes do Android funcionam em conjunto. Isso é fundamental para a resolução de problemas e depuração de aplicativos quando algo não está funcionando como esperado.
-
-> 3. **Boas Práticas de Codificação**: A teoria ajuda a definir e entender as melhores práticas de codificação para o Android. Isso inclui a organização de código, o uso adequado de recursos, a otimização de desempenho e a segurança.
-
-> 4. **Adaptação a Mudanças**: O ecossistema Android está em constante evolução, com novas versões do sistema operacional, atualizações de bibliotecas e ferramentas sendo lançadas regularmente. O conhecimento teórico permite aos desenvolvedores adaptar seus aplicativos às mudanças e aproveitar as novas funcionalidades.
-
-> 5. **Desenvolvimento Eficiente**: Saber como o Android funciona internamente ajuda os desenvolvedores a criar aplicativos mais eficientes em termos de uso de recursos, como CPU, memória e bateria. Isso resulta em aplicativos que funcionam bem em uma variedade de dispositivos Android.
-
-> 6. **Segurança**: A teoria também inclui o conhecimento sobre práticas de segurança no desenvolvimento Android, como armazenamento seguro de dados, autenticação segura e prevenção contra ameaças comuns.
-
-> 7. **Compreensão de Bibliotecas e Frameworks**: Muitos desenvolvedores Android dependem de bibliotecas e frameworks de terceiros para acelerar o desenvolvimento. Uma compreensão teórica sólida ajuda a escolher e utilizar essas bibliotecas de forma eficaz.
-
-> 8. **Expansão de Habilidades**: O conhecimento teórico não se limita apenas ao Android Studio. Ele pode ser aplicado a outros aspectos do desenvolvimento móvel, como desenvolvimento de aplicativos multiplataforma, desenvolvimento de aplicativos para IoT (Internet das Coisas) e muito mais.
-
-> Em resumo, a teoria é a base sólida sobre a qual os desenvolvedores Android constroem suas habilidades práticas. Ela capacita os desenvolvedores a criar aplicativos melhores, mais seguros e eficientes, além de se manterem atualizados em um ambiente de desenvolvimento em constante evolução. Portanto, a compreensão dos conceitos teóricos é fundamental para o sucesso no desenvolvimento Android. 
-
-## [🤖APK EM JAVA:](https://www.youtube.com/@AreaTechBrasil/playlists) 
-* [01 - PRIMEIRO APP](https://youtu.be/3dDlw9A1PM8)
-* 02 - APP DE SORTEIO 1 -> [PARTE 1 ](https://youtu.be/46aK7w7rUkY),[ PARTE 2 ](https://youtu.be/0509VyfMnus)E[ PARTE 3](https://youtu.be/x73RRpVElpw)
-* 03 - GASOLINA OU ALCOOL 1 -> [PARTE 1 ](https://youtu.be/TPJGi53Q9t8)E[ PARTE 2](https://youtu.be/eUfdE9R56ag)
-* 04 - CALCULA O IMC -> [PARTE 1 ](https://youtu.be/9WXTzcOI0cY),[ PARTE 2 ](https://youtu.be/FQNaVaWKzy0)E[ PARTE 3](https://youtu.be/luRg5fsyABM)
-* 05 - IDADE DO CACHORRO -> [PARTE 1 ](https://youtu.be/QKZIoalmj-Y)E[ PARTE 2](https://youtu.be/fh-mGws5fO0)
-* [06 - COMPONENTES DE INTERFACE](https://youtu.be/GsgWz9tJ5zo)
-* [07 - COMO USAR O CHECKBOX](https://youtu.be/BQ2m2HAPjR0)
-* [08 - LISTA DE NOMES](https://youtu.be/9iXnwMkfa60)
-* [09 - APP DE SORTEIO 2](https://youtu.be/haOiftiJkjs)
-* [10 - DOLAR EM REAL](https://youtu.be/mZnG8HsL7bA)
-* 11 - GASOLINA OU ALCOOL 2 -> [PARTE 1 ](https://youtu.be/Vh3hrGgnQDU)E[ PARTE 2](https://youtu.be/uC9hTWQ-5Tg)
-* 12 - CALCULA A MÉDIA -> [PARTE 1 ](https://youtu.be/vbLJol9I_3g),[ PARTE 2 ](https://youtu.be/-Q-_jYGo4HU)E[ PARTE 3](https://youtu.be/GHhcu_mYrMQ)
-* [13 - JOQUEMPÔ](https://youtube.com/playlist?list=PLZCMLqQ7FqfTT4VqSAvpmXXN4QSg9KloC) 
-* [14 - SEEKBAR](https://youtu.be/V1D3k1LTHOo)
-* [15 - APP DE GORJETA](https://youtube.com/playlist?list=PLZCMLqQ7FqfSVriSboSFxjvaZgujxxGAh)
-* [16 - LOGIN COM FIREBASE](https://youtube.com/playlist?list=PLZCMLqQ7FqfRplMlYPdaTosvhTKb2w7pD)
-
-## [🤖APK EM KOTLIN:](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [01 - PRIMEIRO APP](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [02 - CONVERSOR DE EURO-DOLAR](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [03 - FORMULÁRIO NOME E SOBRENOME](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [04 - CONVERSOR DE DOLAR REAL E EURO](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [05 - CRIAÇÃO ACTIVITY](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [06 - FORMULARIO DE DADOS](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [07 - LISTA DE NOMES](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [08 - GOOGLE MAPS](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [09 - AUDIO - MEDIA PLAYER](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [10 - LAYOUT RELATIVE](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [11 - CICLO DE VIDA](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [12 - APP RELOGIO](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [13 - RECYCLER VIEW](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [14 - BASE DE DADOS SLQLITE](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [15 - MVVM](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [16 - APP LISTA TELEFÔNICA](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [17 - ROOM](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-* [18 - RETROFIT](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
-
-# 🤖VIDEOS DO YOUTUBE:
-* [CRIANDO APK QUE CONVERTE DOLAR EM REAL](https://youtu.be/ADbsFq0kOAs?si=0PKNYHnF10pQM4tM)
-* [CRIANDO APK QUE CALCULA A MÉDIA](https://youtu.be/cIoKcflRpaA?si=BG3s43KlSJ6iVYmi)
-* [CRIANDO APK  DE SAUDAÇÃO](https://youtu.be/9hWBuXgycE0?si=KlZsOgJga2mxsVdE)
-* [CRIANDO APK CONVERSOR DE TEMPERATURA](https://youtu.be/MqZvmI0Fs0o?si=EHJCHu6yxDkspBZ5)
-* [CLIQUE AQUI PARA VER A EXECUÇÃO DO APP JOKENPO](https://youtu.be/wYlFDgnFG1w?si=1saSc6-9nQK6BsYO)
 
 ![](https://i.imgur.com/waxVImv.png)
 # 👀VISÃO PANORÂMICA:
