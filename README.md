@@ -4,7 +4,10 @@
 [![GitHub Repo stars](https://img.shields.io/badge/VILHALVA-GITHUB-03A9F4?logo=github)](https://github.com/VILHALVA)
 [![GitHub Repo stars](https://img.shields.io/badge/VEJA%20OS-VIDEOS-03A9F4?logo=youtube)](https://www.youtube.com/@vilhalva100/search?query=AndroidStudio) <br>
 
-[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://developer.android.com/docs?hl=pt-br) <br>
+[![GitHub Repo stars](https://img.shields.io/badge/VEJA-DOCUMENTAÇÃO-03A9F4?logo=google)](https://developer.android.com/docs?hl=pt-br) 
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM-JAVA-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-JAVA) 
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM-KOTLIN-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-KOTLIN) 
+[![GitHub Repo stars](https://img.shields.io/badge/LINGUAGEM-XML-03A9F4?logo=github)](https://github.com/VILHALVA/CURSO-DE-XML) <br>
 
 <img src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" align="center" width="250"> <br>
 
