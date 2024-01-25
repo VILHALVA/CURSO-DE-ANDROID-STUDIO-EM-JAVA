@@ -2,8 +2,6 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://youtube.com/playlist?list=PL50rZONmv8ZRsWj0L3rvSicPSEJl6sQ40&si=kGh_P6Dsh_3J2mJf)
 
-<img src="https://cdn6.aptoide.com/imgs/9/5/4/9547e13b1aea4ba6f63c1a27fc4fe8f8_icon.png?w=128" align="center" width="250"> <br>
-
 * 01 - PRIMEIRO APP
 * 02 - CONVERSOR DE EURO-DOLAR
 * 03 - FORMULÁRIO NOME E SOBRENOME
