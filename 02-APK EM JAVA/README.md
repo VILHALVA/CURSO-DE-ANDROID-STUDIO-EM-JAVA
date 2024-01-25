@@ -2,8 +2,6 @@
 
 [![GitHub Repo stars](https://img.shields.io/badge/-PLAYLIST%20DO%20YOUTUBE-blueviolet)](https://www.youtube.com/@AreaTechBrasil/playlists)
 
-<img src="https://lh3.googleusercontent.com/W3vbTZwDj__5Km7djyVF2aM2NQFfXjYGwPGBGXzS9OOdZG-ouAr8JDz17_hIcgpQUPEY=w256" width="250"> <br>
-
 * [01 - PRIMEIRO APP](https://youtu.be/3dDlw9A1PM8)
 * 02 - APP DE SORTEIO 1 -> [PARTE 1 ](https://youtu.be/46aK7w7rUkY),[ PARTE 2 ](https://youtu.be/0509VyfMnus)E[ PARTE 3](https://youtu.be/x73RRpVElpw)
 * 03 - GASOLINA OU ALCOOL 1 -> [PARTE 1 ](https://youtu.be/TPJGi53Q9t8)E[ PARTE 2](https://youtu.be/eUfdE9R56ag)
